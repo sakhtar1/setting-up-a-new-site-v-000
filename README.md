@@ -6,3 +6,5 @@
 
 <p><a href="https://www.youtube.com/watch?v=i61lTJ6OpDE">Setting up a New Site</a></p>.
 
+
+<a href='https://learn.co/lessons/setting-up-a-new-site' data-visibility='hidden'>View this lesson on Learn.co</a>
