@@ -6,5 +6,6 @@
 
 <p><a href="https://www.youtube.com/watch?v=i61lTJ6OpDE">Setting up a New Site</a></p>.
 
+<p><a href="https://gist.githubusercontent.com/octocat/9257657/raw/3f9569e65df83a7b328b39a091f0ce9c6efc6429/.gitignore">Here is a direct link to the gitignore code referenced in the video</a></p>
 
 <a href='https://learn.co/lessons/setting-up-a-new-site' data-visibility='hidden'>View this lesson on Learn.co</a>
