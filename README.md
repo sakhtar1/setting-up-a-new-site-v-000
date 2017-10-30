@@ -8,7 +8,7 @@ This is a sample site for now.
 
 
 #Contact
-email: sakht318@gmail.com
+email:
 =======
 # Setting up a New Site
 
