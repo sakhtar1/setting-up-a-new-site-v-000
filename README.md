@@ -3,7 +3,7 @@ Exceptional Realty Group Website
 
 # Description
 
-This is an example site
+This is a sample site
 
 #Contact
 email: sakht318@gmail.com
